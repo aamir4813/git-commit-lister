@@ -1,0 +1,107 @@
+.main-container {
+    margin: 20px 20%;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.top-header{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: orange;
+}
+
+
+.form{
+    width: 100%;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-field{
+    margin: 0px;
+    width: 75%;
+}
+
+.button{
+    width: 23%;
+}
+
+.init-stage{
+    font-size: 18px;
+    color: grey;
+    width: 100%;
+    margin: 8px;
+    padding: 6px;
+    text-align: center;
+}
+
+.profile-list{
+    color: grey;
+    margin: 12px 0px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.container-item{
+    margin-top : 15px;
+    height: 30vh;
+}
+
+
+.container-col-2{
+    height: 100%;
+}
+.profile-item{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.repo-list{
+    color: black;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+}
+.repo-span{
+    margin: 10px 0px;
+    padding: 3px;
+}
+
+.repo-para{
+    font-size: 18px;
+    color: gray;
+}
+
+.avatar{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    margin-bottom: 10px;
+}
+
+.profile-button{
+    width: 80%;
+}
+
+.branch-name{
+    text-align: center;
+}
+
+.commit-item{
+    /* width: 100%; */
+}
+.link-widh{
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.bch2{
+    background-color: lightcoral;
+}
